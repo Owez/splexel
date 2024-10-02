@@ -1,2 +1,0 @@
-- name: Setup Deno
-  uses: denoland/setup-deno@v1.5.1
